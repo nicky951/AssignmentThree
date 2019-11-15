@@ -1,0 +1,4 @@
+#Fri Nov 15 18:50:32 AEDT 2019
+base.0=/Users/nicholasliang/Desktop/Android/AssignmentThree/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
